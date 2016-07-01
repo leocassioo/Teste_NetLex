@@ -8,7 +8,7 @@ namespace Teste_NetLex
 	{
 		public static void Main(string[] args)
 		{
-			string texto = "Aqui é Body Builder Ipsum PORRA!" +
+			string texto = "Aqui é Body Builder Ipsum!" +
 				"Sai de casa comi pra caralho porra. " +
 				"Aqui nóis constrói fibra, não é água com músculo. " +
 				"Eita porra!, tá saindo da jaula o monstro!Vamo monstro!" +
