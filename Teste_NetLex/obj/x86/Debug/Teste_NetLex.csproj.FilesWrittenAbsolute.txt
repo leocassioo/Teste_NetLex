@@ -1,0 +1,5 @@
+/Users/leonardodecassio/Projects/Teste_NetLex/Teste_NetLex/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/leonardodecassio/Projects/Teste_NetLex/Teste_NetLex/bin/Debug/Teste_NetLex.exe.mdb
+/Users/leonardodecassio/Projects/Teste_NetLex/Teste_NetLex/bin/Debug/Teste_NetLex.exe
+/Users/leonardodecassio/Projects/Teste_NetLex/Teste_NetLex/obj/x86/Debug/Teste_NetLex.exe
+/Users/leonardodecassio/Projects/Teste_NetLex/Teste_NetLex/obj/x86/Debug/Teste_NetLex.exe.mdb
